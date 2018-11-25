@@ -8,7 +8,7 @@ Plugin inserts a new chat into TeamSpeak UI on top of the regular one. The new w
 
 
 ### Features
-Style with css, for example show user avatars in chat
+Style with css, for example show user avatars in chat.
 
 Animated emotes & no size restrictions
 Embed linked images, youtube, tweets etc...
