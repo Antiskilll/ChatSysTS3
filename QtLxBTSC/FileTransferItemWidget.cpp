@@ -55,7 +55,7 @@ void FileTransferItemWidget::onTransferFailed(unsigned short transferID)
 		bar->setFormat("Cancelled");
 		bar->setStyleSheet("QProgressBar::chunk {background-color: #E90707;}");
 		bar->setMaximum(100);
-		bar->setValue(100);
+		bar->setValue(105);
 	}
 }
 
