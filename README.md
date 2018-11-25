@@ -22,7 +22,7 @@ Embed linked images, youtube, tweets etc...
 ## Building
 
 ### Windows:
-Visual Studio 2015/2017
+Visual Studio 2015/2017 mainly 2017
 
 Visual Studio 2015 (v140) toolset
 
