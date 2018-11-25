@@ -1,5 +1,5 @@
 #  Chat plugin for TeamSpeak 3
-[![Build status](https://ci.appveyor.com/api/projects/status/5x17tael0j88eeuh?svg=true)](https://ci.appveyor.com/project/Luch00/lxbtsc)
+
 
 Automatic build for current master: [64bit only](https://ci.appveyor.com/api/projects/Luch00/lxbtsc/artifacts/BetterChat.ts3_plugin?branch=master&job=Environment%3A+GENERATOR%3DVisual+Studio+2015+Win64%2C+QTDIR%3DC%3A%5CQt%5C5.6%5Cmsvc2015_64%2C+PLATFORM%3Dx64)
 
